@@ -1,0 +1,93 @@
+#: smth
+msgid "help"
+msgstr " "Help"
+
+#: smth
+msgid "top"
+msgstr " "TOP"
+
+#: smth
+msgid "en"
+msgstr " "English"
+
+#: smth
+msgid "feedback"
+msgstr " "Feedback"
+
+#: smth
+msgid "chatlink"
+msgstr " "Chat"
+
+#: smth
+msgid "mainmenu"
+msgstr " "Main menu"
+
+#: smth
+msgid "share"
+msgstr " "Share bot"
+
+
+#: smth
+msgid "ratebot"
+msgstr "Rate me ::-like-::"
+
+#: smth
+msgid "invite_friends"
+msgstr "Get coins::-moneybag-::"
+
+#: smth
+msgid "red"
+msgstr "Red"
+
+#: smth
+msgid "black"
+msgstr "Black"
+
+#: smth
+msgid "odd"
+msgstr "Odd"
+
+#: smth
+msgid "even"
+msgstr "Even"
+
+
+#: smth
+msgid "play_roulette"
+msgstr "Roulette"
+
+#: smth
+msgid "play_dices"
+msgstr "Dices ::-dices-::"
+
+#: smth
+msgid "play_slot_machine"
+msgstr "Slot Machine ::-slot_machine-::"
+
+#: smth
+msgid "roulette_description"
+msgstr "Roulette rules"
+
+#: smth
+msgid "slot_machine_description"
+msgstr "SM Rules"
+
+#: smth
+msgid "dices_description"
+msgstr "Dices Rules"
+
+#: smth
+msgid "slot_machine_run"
+msgstr "SM PUSH ::-slot_machine-::"
+
+#: smth
+msgid "dices_run"
+msgstr "Roll dices ::-dices-::"
+
+#: smth
+msgid "profile"
+msgstr "Profile"
+
+#: smth
+msgid "sharebotsbot"
+msgstr "Interesting bots ::-baloon-::"
