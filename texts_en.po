@@ -1,0 +1,127 @@
+#: smth
+msgid "help"
+msgstr "You are in the Casino. You can play difference game and win money::-moneybag-::!\nEnjoy!\n\n/help - help\n/profile - profile information\n/feedback - feedback\n\n/chooselanguage - change language\n\n::-baloon-::Our interesting bots - https://telegram.me/trynewbot?start=casino_tgbot\n\nIn the beginning, we give you 50 ::-moneybag-::. If you have less than 50::-moneybag-:: during the game, we give you 10::-moneybag-:: every hour if you play any game."
+
+#: smth
+msgid "top_players_all"
+msgstr "Top players:"
+
+#: smth
+msgid "profile"
+msgstr "%name%\n\nCoins: %coins%::-moneybag-::\n\nIn the beginning, we give you 50 ::-moneybag-::. If you have less than 20::-moneybag-:: during the game, we give you 10::-moneybag-:: every hour if you play any game.\nYou can invite friends and receive money - press /invite_friends for info!"
+
+#: smth
+msgid "feedback"
+msgstr "Please, write your feedback about game in the next message::-baloon-::"
+
+#: smth
+msgid "botisstopped"
+msgstr "You unsubscribe. Now you will not receive notification of it. You can always sign up again by typing /start"
+
+#: smth
+msgid "ratebot"
+msgstr "Please, rate this bot"
+
+#: smth
+msgid "rateonstorebot"
+msgstr "Please, rate this bot on 5 stars  on storebot by link\nhttp://telegram.me/storebot?start=casino_tgbot\n::-star-::::-star-::::-star-::::-star-::::-star-::\n\nYou help us to improve the game!"
+
+#: smth
+msgid "invite_friends"
+msgstr "Super action! We give coins::-moneybag-:: for friends! ::-baloon-::\n\nFor each friend who has followed the link %reflink%, you will get 25 ::-moneybag-::.\nYou can either write or forward them the previous message рџ”ќ"
+
+#: smth
+msgid "top_players_friends"
+msgstr "Top friends count:"
+
+#: smth
+msgid "best_player_yesterday"
+msgstr "Best yesterday player:"
+
+#: smth
+msgid "best_player_all"
+msgstr "Best player:"
+
+#: smth
+msgid "roulette_description"
+msgstr "Choose roulette combination and play!::-baloon-::\n\nRed or Black - 1:1\nOdd or Even - 1:1\nType any number (1-36) - 36:1\n\nDefault bet 1::-moneybag-::"
+
+#: smth
+msgid "slot_machine_description"
+msgstr "Push button and win!\n\nOne or more ::-slot0-:: - x1\n3 equal slots - x5\n4 equal slots - x20\n5 equal slots - x1000\n\nDefault bet 1::-moneybag-::"
+
+#: smth
+msgid "dices_description"
+msgstr "You and your opponent roll 2 dices::-dices-::. The winner is person who has more points.\n\nDefault bet 1::-moneybag-::"
+
+#: smth
+msgid "nomoney"
+msgstr "You haven't money to play game. Invite friends or wait some time."
+
+#: smth
+msgid "badroulettebet"
+msgstr "We don't understand your bet name. Please, type again."
+
+#: smth
+msgid "roulette_result"
+msgstr "%number% %color%"
+
+#: smth
+msgid "roulette_loose"
+msgstr "Try again!"
+
+#: smth
+msgid "roulette_win"
+msgstr "You win::-baloon-:: and receive %result%::-moneybag-::"
+
+#: smth
+msgid "red"
+msgstr "Red"
+
+#: smth
+msgid "black"
+msgstr "Black"
+
+#: smth
+msgid "slot_machine_result"
+msgstr "Result: %s0%%s1%%s2%%s3%%s4%"
+
+#: smth
+msgid "slot_machine_loose"
+msgstr "Try again!"
+
+#: smth
+msgid "slot_machine_win"
+msgstr "WOW! You win %result%::-moneybag-:: ::-baloon-::"
+
+#: smth
+msgid "dices_loose"
+msgstr "Try again!"
+
+#: smth
+msgid "dices_win"
+msgstr "You win::-baloon-:: and receive %result%::-moneybag-::"
+
+#: smth
+msgid "dices_result"
+msgstr "You: %player0%%player1%\r\nOpponent: %casino0%%casino1%"
+
+#: smth
+msgid "dices_equal"
+msgstr "Equal points. You take your bet.\r\nRoll dices again::-dices-::"
+
+#: smth
+msgid "top_players_today"
+msgstr "Top today players:"
+
+#: smth
+msgid "zero"
+msgstr "Zero"
+
+#: smth
+msgid "sharebotsbot"
+msgstr "::-baloon-::Our interesting bots - https://telegram.me/trynewbot?start=casino_tgbot"
+
+#: smth
+msgid "template_share"
+msgstr "Help me - go to link %reflink%, for which I'll get 25 gold::-moneybag-:: in the best Telegram's casino.\nAnd you can start with 50(!) gold::-moneybag-:: - join us ::-baloon-::"
