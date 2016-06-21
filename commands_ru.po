@@ -1,0 +1,91 @@
+#: smth
+msgid "help"
+msgstr "Помощь"
+
+#: smth
+msgid "top"
+msgstr "ТОП"
+
+#: smth
+msgid "feedback"
+msgstr "Отзыв"
+
+#: smth
+msgid "chatlink"
+msgstr "Чат"
+
+#: smth
+msgid "mainmenu"
+msgstr "Главное меню"
+
+#: smth
+msgid "share"
+msgstr "Поделиться"
+
+#: smth
+msgid "itisnotinteresting"
+msgstr "Бот не интересен"
+
+#: smth
+msgid "ratebot"
+msgstr "Оцените бота ::-like-::"
+
+#: smth
+msgid "invite_friends"
+msgstr "Получить монеты::-moneybag-::"
+
+#: smth
+msgid "black"
+msgstr "Черное"
+
+#: smth
+msgid "red"
+msgstr "Красное"
+
+#: smth
+msgid "even"
+msgstr "Четное"
+
+#: smth
+msgid "odd"
+msgstr "Нечетное"
+
+#: smth
+msgid "dices_run"
+msgstr "Кидать кости ::-dices-::"
+
+#: smth
+msgid "slot_machine_run"
+msgstr "Нажать ::-slot_machine-::"
+
+#: smth
+msgid "dices_description"
+msgstr "Правила костей"
+
+#: smth
+msgid "slot_machine_description"
+msgstr "СМ Правила"
+
+#: smth
+msgid "profile"
+msgstr "Профиль"
+
+#: smth
+msgid "play_dices"
+msgstr "Кости ::-dices-::"
+
+#: smth
+msgid "play_slot_machine"
+msgstr "Слот-машина ::-slot_machine-::"
+
+#: smth
+msgid "play_roulette"
+msgstr "Рулетка"
+
+#: smth
+msgid "roulette_description"
+msgstr "Правила рулетки"
+
+#: smth
+msgid "sharebotsbot"
+msgstr "Интересные боты ::-baloon-::"
